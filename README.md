@@ -1,7 +1,11 @@
 Hello! 🖐
 
-I'm a Master's student at Dankook University in South Korea, where I am fortunate to be advised by Professors [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo) and [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/) in the [System Software Laboratory](https://sslab.dankook.ac.kr/).
+I am researching in Korea under the remote supervision of [Professor Matthias Boehm](https://mboehm7.github.io/) at the Technical University of Berlin, Germany. 
 
-My research focuses on the exciting convergence of System and AI, with specific emphasis on **Learned Index**. My key publication, featured at SIGMOD '24, is titled ["Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs"](https://dl.acm.org/doi/10.1145/3654919). Here is my [website](https://min-guk.github.io/).
+Previously, I earned my Master's degree in August 2024 from Dankook University in Korea, where I had the privilege of being advised by Professors [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo) and [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/) in the [System Software Laboratory](https://sslab.dankook.ac.kr/).
 
-### I am currently looking for a PhD position for 2025!
+My research focuses on **Systems for ML** and **ML for Systems**, with a particular emphasis on [Apache SystemDS](https://github.com/apache/systemds) and Learned Index. Here is my [CV](./assets/pdf/Minguk_Choi.pdf).
+
+On-going projects:
+  - **[Apache SystemDS](https://github.com/apache/systemds)**: An open-source ML system for the end-to-end data science lifecycle.
+  - **Accelerating Learned Index via SIMD**: Accelerating learned indexes through the parallelism of internal ML models.
