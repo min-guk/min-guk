@@ -7,7 +7,7 @@ Currently, I am conducting research under the supervision of [Prof. Matthias Boe
 
 Previously, I earned my Master's degree in August 2024 from Dankook University in Korea, where I had the privilege of being advised by Professors [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo) and [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/) in the [System Software Laboratory](https://sslab.dankook.ac.kr/).
 
-My research focuses on **scalable and efficient systems for ML training, retrieval, and serving**. Here is my **[CV](./assets/pdf/CV_MingukChoi.pdf)**.
+My research focuses on **scalable and efficient systems for ML training, retrieval, and serving**.
 
 On-going projects:
 
