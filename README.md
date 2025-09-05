@@ -6,4 +6,4 @@ I received my Master’s degree from Dankook University in Korea. My Master’s 
 
 Building on this background, my current research interests center on developing scalable and efficient systems for machine learning training, retrieval, and serving.
 
-(Last updated: September 4, 2025)
+(Updated: Sep 2025)
