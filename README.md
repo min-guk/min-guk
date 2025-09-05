@@ -1,4 +1,4 @@
-Hello, I’m Minguk Choi! 🖐
+Hi, I’m Minguk Choi! 🖐
 
 I am a first-year Ph.D. student in Computer Sciences at the University of Wisconsin–Madison, where I am pursuing an independent study with [Prof. Shivaram Venkataraman](https://shivaram.org/) on systems for machine learning. I also continue to collaborate with [Prof. Matthias Boehm](https://mboehm7.github.io/) at TU Berlin on federated learning.
 
