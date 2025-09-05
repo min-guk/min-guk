@@ -1,18 +1,9 @@
-Hello, I'm Minguk Choi! 🖐
+Hello, I’m Minguk Choi! 🖐
 
-I will begin my Ph.D. in Computer Sciences at the University of Wisconsin–Madison in Fall 2025. 
+I am a first-year Ph.D. student in Computer Sciences at the University of Wisconsin–Madison, where I am pursuing an independent study with [Prof. Shivaram Venkataraman](https://shivaram.org/) on systems for machine learning. I also continue to collaborate with [Prof. Matthias Boehm](https://mboehm7.github.io/) at TU Berlin on federated learning.
 
-Currently, I am conducting research under the supervision of [Prof. Matthias Boehm](https://mboehm7.github.io/) at TU Berlin, while also collaborating with [Dr. Kyoungmin Kim](https://sites.google.com/dblab.postech.ac.kr/kmkim)  at EPFL.
+I received my Master’s degree in August 2024 from Dankook University in Korea. My Master’s research focused on storage and database systems, particularly learned index structures, under the supervision of Professors [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo) and [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/).
 
+Building on this background, my current research interests center on developing scalable and efficient systems for machine learning training, retrieval, and serving.
 
-Previously, I earned my Master's degree in August 2024 from Dankook University in Korea, where I had the privilege of being advised by Professors [Seehwan Yoo](https://sites.google.com/site/dkumobileos/members/seehwanyoo) and [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/) in the [System Software Laboratory](https://sslab.dankook.ac.kr/).
-
-My research focuses on **scalable and efficient systems for ML training, retrieval, and serving**.
-
-On-going projects:
-
-- **Federated Learning Plan under Privacy Constraints**: Optimized federated execution plans for end-to-end ML pipelines in Apache SystemDS under privacy constraints, using a dynamic programming-based cost model.
-
-- **Hybrid Vector-Relational Search**: An algorithm to optimize multi-vector top-k queries combined with complex relational filters in vector-relational hybrid databases.
-
-Last updated: April 6, 2025
+(Last updated: September 4, 2025)
